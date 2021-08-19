@@ -40,4 +40,4 @@ this is Ecommerce API built using Laravel 8 and php 8 .
 The Hanan's  Ecommerce Api  is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Developed By Hanan Mohammed
 # Hanan Mohammed  
-http://hanan-mohammed.com/ar
+http://hanan-mohammed.com/en
